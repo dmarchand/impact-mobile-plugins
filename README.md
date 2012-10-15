@@ -27,3 +27,9 @@ touch-joystick-zone
 Allows the developer to assign a zone in which analog touch inputs are accepted. The origin is tracked (like in touch-joystick), and the module returns the delta.
 
 Particularly useful for creating areas that respond to swipe or drag motions. For example, you could create a zone used to track the movement required to swing a sword. Also very useful for tracking short "swipe" motions.
+
+
+
+License
+=======
+MIT: http://mit-license.org
