@@ -4,6 +4,10 @@ impact-mobile-plugins
 Plugins for use in mobile game development via ImpactJS and Ejecta
 
 
+Usage
+=====
+Drop in your lib/plugins folder. Make sure to require 'plugins.touch-joystick' and 'plugins.touch-joystick-zone'
+
 
 touch-joystick
 ==============
